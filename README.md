@@ -1,5 +1,5 @@
 - To run the application
-npm install
+npm install and 
 npm start
 
 - These are the login credentials.
